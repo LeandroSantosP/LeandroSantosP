@@ -1,12 +1,38 @@
-Hi 👋 My name is Leandro
-========================
+# 👋 Leandro Pereira dos Santos
 
-Hi, my name is Leandro, I'm 23 years old, I'm a rising enthusiast in the area of Back-End development with and have a deep knowleg in APIs, I love programming and i do my best to reflect that passion on the quality of my code.
+<div align="center">
 
-* 🌍  I'm based in Brazil, São Paulo
-* ✉️  You can contact me at [skp.Tridimensional@gmail.com](mailto:skp.Tridimensional@gmail.com)
-* 🧠  I'm learning Java, Spring Boot.
-* 🤝  I'm open to collaborating on Spring Boot, Node js
+**Back-End Developer | Node.js & Spring Boot Enthusiast | API Architecture Specialist**
+
+🇧🇷 São Paulo, Brazil | 📧 [skp.Tridimensional@gmail.com](mailto:skp.Tridimensional@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-LeandroSantosP-181717?style=for-the-badge&logo=github)](https://github.com/LeandroSantosP)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leandro%20Pereira%20dos%20Santos-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leandro-pereira-dos-santos-7382861a5)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+Back-End Development enthusiast with a deep passion for building robust, scalable APIs and microservices architectures. I'm committed to writing clean, maintainable code and following industry best practices. Currently expanding my expertise in Java and Spring Boot while continuing to strengthen my skills in Node.js ecosystem.
+
+- 🎯 **Focus**: Back-End Development, RESTful APIs, Microservices Architecture
+- 🧠 **Currently Learning**: Java, Spring Boot, Advanced Software Architecture Patterns
+- 🤝 **Open to Collaborating**: Spring Boot, Node.js, Backend Solutions
+- 💡 **Passionate About**: Clean Code, API Design, System Architecture, Problem Solving
+
+---
+
+### Core Competencies
+- ✅ RESTful API Development & Best Practices
+- ✅ Microservices Architecture
+- ✅ Database Design & Optimization
+- ✅ Software Architecture & Design Patterns
+- ✅ API Documentation & Standards
+- ✅ Clean Code Principles
+
+---
 
 ### Skills
 
