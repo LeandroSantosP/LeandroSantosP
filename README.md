@@ -7,7 +7,7 @@
 🇧🇷 São Paulo, Brazil | 📧 [skp.Tridimensional@gmail.com](mailto:skp.Tridimensional@gmail.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-LeandroSantosP-181717?style=for-the-badge&logo=github)](https://github.com/LeandroSantosP)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leandro%20Pereira%20dos%20Santos-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leandro-pereira-dos-santos-7382861a5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leandro%20Pereira%20dos%20Santos-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leandro-p-dos-santos-7382861a5/)
 
 </div>
 
